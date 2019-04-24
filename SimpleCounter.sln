@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReduxPractice", "ReduxPractice\ReduxPractice.csproj", "{0EE52DD8-830B-44EA-9059-0B5B3E463F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCounter", "ReduxPractice\SimpleCounter.csproj", "{0EE52DD8-830B-44EA-9059-0B5B3E463F29}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
