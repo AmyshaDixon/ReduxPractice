@@ -12,6 +12,7 @@
     "react-scripts": "^1.1.5",
     "reactstrap": "^6.3.0",
     "rimraf": "^2.6.2",
+    "lodash": ">=4.17.11",
     "merge": ">=1.2.1"
   },
   "devDependencies": {
