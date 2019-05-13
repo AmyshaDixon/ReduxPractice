@@ -1,0 +1,18 @@
+﻿#counterDiv h2 {
+    margin-bottom: 1em;
+}
+
+#counterDiv button {
+    background: none;
+    border: solid black .3em;
+}
+
+#counterDiv button:hover {
+    border: solid green .3em;
+}
+
+#counterDiv span {
+    margin: 1.5em;
+}
+
+
